@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorulashfaq" alt="noorulashfaq" /></a> </p>
 
-- 🌱 I’m currently learning **CI/CD Pipeline | AWS Cloud**
+- 👯 I'm currently an intern at Vallabha Systems Ltd. as a **React developer**
 
-- 👯 I'm currently working as an intern at Vallabha Systems Ltd. **React developer**
+- 👨‍💻 I'm developing a **React application** as part of my internship
+
+- 👨‍💻 Also, I'm in a scrum developing **Backend microservices using Express.js & Node.js + MongoDB**
+
+- 🌱 I’m currently learning **CI/CD Pipeline using GitHub Actions | AWS Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/noorulashfaq](https://github.com/noorulashfaq)
 
-- 💬 Ask me about **React.js, Express.js, MySQL, MongoDB**
+- 💬 Ask me about **React.js, Express.js, Node.js MySQL, MongoDB**
 
 - 📫 How to reach me **noorulashfaq786@gmail.com**
 
