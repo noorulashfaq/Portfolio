@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noorul Ashfaq</h1>
 <h3 align="center">"Passionate Full Stack Developer | Problem Solver | Enthusiast of Emerging Technologies"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulashfaq&label=Profile%20views&color=0e75b6&style=flat" alt="noorulashfaq" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorulashfaq" alt="noorulashfaq" /></a> </p>
-
 - 👯 I'm currently an intern at Vallabha Systems Ltd. as a **React developer**
 
 - 👨‍💻 I'm developing a **React application** as part of my internship
